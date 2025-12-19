@@ -1,0 +1,14 @@
+/Users/merykarenovna/Projects/project/CalculatorApp/bin/Debug/net8.0/CalculatorApp
+/Users/merykarenovna/Projects/project/CalculatorApp/bin/Debug/net8.0/CalculatorApp.deps.json
+/Users/merykarenovna/Projects/project/CalculatorApp/bin/Debug/net8.0/CalculatorApp.runtimeconfig.json
+/Users/merykarenovna/Projects/project/CalculatorApp/bin/Debug/net8.0/CalculatorApp.dll
+/Users/merykarenovna/Projects/project/CalculatorApp/bin/Debug/net8.0/CalculatorApp.pdb
+/Users/merykarenovna/Projects/project/CalculatorApp/obj/Debug/net8.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merykarenovna/Projects/project/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/merykarenovna/Projects/project/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfo.cs
+/Users/merykarenovna/Projects/project/CalculatorApp/obj/Debug/net8.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/merykarenovna/Projects/project/CalculatorApp/obj/Debug/net8.0/CalculatorApp.dll
+/Users/merykarenovna/Projects/project/CalculatorApp/obj/Debug/net8.0/refint/CalculatorApp.dll
+/Users/merykarenovna/Projects/project/CalculatorApp/obj/Debug/net8.0/CalculatorApp.pdb
+/Users/merykarenovna/Projects/project/CalculatorApp/obj/Debug/net8.0/CalculatorApp.genruntimeconfig.cache
+/Users/merykarenovna/Projects/project/CalculatorApp/obj/Debug/net8.0/ref/CalculatorApp.dll
